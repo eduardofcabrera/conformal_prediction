@@ -1,0 +1,6 @@
+vanilla -> 1min
+cot -> 1h10min
+cp -> 34min
+cp_2 -> 42min
+cp_3 -> 1h03min
+cp_4 -> 20min

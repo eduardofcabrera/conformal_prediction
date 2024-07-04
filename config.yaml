@@ -1,0 +1,6 @@
+dataset_file: "boolean_expressions.txt"
+conformal_scores_file: "calibrating_scores.csv"
+alpha: 0.1
+inference_mode: "cot"
+conformal_range: [0, 500]
+val_range: [0, 500]
